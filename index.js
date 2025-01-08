@@ -11,3 +11,6 @@ const sub = (a, b) => a - b;   // This function is not exported
 
 module.exports.sub = sub;
 
+const abc = (a, b) => a + b;
+
+module.exports.abc = abc;

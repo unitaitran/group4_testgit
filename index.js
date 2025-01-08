@@ -14,3 +14,4 @@ module.exports.sub = sub;
 const abc = (a, b) => a + b;
 
 module.exports.abc = abc;
+const ax = (a, x) => a + x;

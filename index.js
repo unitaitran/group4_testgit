@@ -7,7 +7,4 @@ module.exports = {
     div: (a, b) => a / b,
 }
 
-const sub = (a, b) => a - b;   // This function is not exported
-
-module.exports.sub = sub;
-
+const add = (a, b) => a + b;    

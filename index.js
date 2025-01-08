@@ -13,6 +13,5 @@ module.exports.sub = sub;
 
 
 
-module.exports.abc = abc;
-const ax = (a, x) => a + x;
-const ay = (a, y) => a + y;
+
+

@@ -11,6 +11,8 @@ const sub = (a, b) => a - b;   // This function is not exported
 
 module.exports.sub = sub;
 
-const abc = (a, b) => a + b;
+
 
 module.exports.abc = abc;
+const ax = (a, x) => a + x;
+const ay = (a, y) => a + y;

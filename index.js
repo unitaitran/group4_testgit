@@ -1,4 +1,4 @@
-const mul = (a, b) => a * b;
+const  multi = (a, b) => a * b;
 
 module.exports = {
     mul,
@@ -6,5 +6,8 @@ module.exports = {
     sub: (a, b) => a - b,
     div: (a, b) => a / b,
 }
+
+const mul = (a, b) => a * b;    
+
 
 const add = (a, b) => a + b;    
